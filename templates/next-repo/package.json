@@ -9,7 +9,7 @@
     "bem-modifiers" : "latest",
     "copy-webpack-plugin": "^4.5.4",
     "next": "^7.0.2",
-    "node-sass": "^4.9.4",
+    "node-sass": "^4.13.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0"
   },
